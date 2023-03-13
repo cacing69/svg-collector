@@ -1,7 +1,6 @@
 # SVG Collector
 
-<p>Hobby only. Tons of free SVG collection, if u want to add more collection, just pull request on my repo</p>
-
+<p>Hobby only, tons of free SVG collection, if u want to add more collection, just pull request on my repo</p>
 
 
 <h4>Organizations</h4>
