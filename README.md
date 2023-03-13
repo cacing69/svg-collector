@@ -4,4 +4,4 @@
 
 <h4>Organizations</h4>
 
-- [MLB : Major League Baseball] (organizations/mlb.svg)
+- [MLB : Major League Baseball] (../organizations/mlb.svg)
